@@ -21,8 +21,8 @@ Backend Engineer • System Builder • Performance-Oriented Developer
   <a href="mailto:fabrian.ivan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/fabrianivan-id">
-    <img src="https://img.shields.io/badge/GitHub-fabrianivan--id-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/fabrianivan">
+    <img src="https://img.shields.io/badge/GitHub-fabrianivan-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://gitlab.com/fabrianivan">
     <img src="https://img.shields.io/badge/GitLab-fabrianivan-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
