@@ -13,9 +13,9 @@ Backend Engineer • System Builder • Performance-Oriented Developer
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fabrianivan&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/fabrianivan?label=Followers&style=flat&color=7c3aed" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/commit-activity/y/fabrianivan
-/fabrianivan?label=Yearly%20Commits&color=7c3aed" alt="Yearly Commits" />
+  <img src="https://img.shields.io/github/commit-activity/y/fabrianivan-id/develevate?label=Yearly%20Commits&color=7c3aed" alt="Yearly Commits" />
 </p>
+
 
 <p align="center">
   <a href="mailto:fabrian.ivan@gmail.com">
