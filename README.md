@@ -79,7 +79,7 @@ Backend Engineer • System Builder • Performance-Oriented Developer
     <td width="50%">
       <h3 align="center">DevElevate</h3>
       <p align="center">
-        <a href="https://github.com/fabrianivan-id/develevate">
+        <a href="https://github.com/fabrianivan/develevate">
           <img src="https://img.shields.io/badge/View%20Repository-DevElevate-7c3aed?style=for-the-badge&logo=github&logoColor=green" />
         </a>
       </p>
@@ -91,8 +91,8 @@ Backend Engineer • System Builder • Performance-Oriented Developer
     <td width="50%">
       <h3 align="center">Rumah Resep API</h3>
       <p align="center">
-        <a href="https://github.com/fabrianivan-id/RumahResep-Project">
-          <img src="https://img.shields.io/badge/View%20Repository-Rumah%20Resep-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+        <a href="https://github.com/fabrianivan/RumahResep-Project">
+          <img src="https://img.shields.io/badge/View%20Repository-Rumah%20Resep-7c3aed?style=for-the-badge&logo=github&logoColor=red"/>
         </a>
       </p>
       <p align="center">
@@ -105,7 +105,7 @@ Backend Engineer • System Builder • Performance-Oriented Developer
     <td width="50%">
       <h3 align="center">Bookshelf API</h3>
       <p align="center">
-        <a href="https://github.com/fabrianivan-id/nodejs-bookshelf-api">
+        <a href="https://github.com/fabrianivan/nodejs-bookshelf-api">
           <img src="https://img.shields.io/badge/View%20Repository-Bookshelf%20API-7c3aed?style=for-the-badge&logo=github&logoColor=w" />
         </a>
       </p>
@@ -116,7 +116,7 @@ Backend Engineer • System Builder • Performance-Oriented Developer
     <td width="50%">
       <h3 align="center">SFTP Watchdog</h3>
       <p align="center">
-        <a href="https://github.com/fabrianivan-id/sftp-watchdog">
+        <a href="https://github.com/fabrianivan/sftp-watchdog">
           <img src="https://img.shields.io/badge/View%20Repository-SFTP%20Watchdog-7c3aed?style=for-the-badge&logo=github&logoColor=yellow" />
         </a>
       </p>
@@ -152,12 +152,12 @@ Experienced in delivering enterprise-grade systems with strong focus on reliabil
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan-id&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="190" />
-  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan-id&layout=compact&theme=radical" height="190" />
+  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="190" />
+  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=radical" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabrianivan-id&theme=radical" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabrianivan&theme=radical" height="190" />
 </p>
 
 ---
