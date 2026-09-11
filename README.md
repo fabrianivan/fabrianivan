@@ -164,8 +164,8 @@ Experienced in delivering enterprise-grade systems with strong focus on reliabil
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabrianivan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=radical" height="190" />
+  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="190" />
+  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=radical" height="190" />
 </p>
 
 <p align="center">
@@ -177,11 +177,12 @@ Experienced in delivering enterprise-grade systems with strong focus on reliabil
 ## 🏆 Recognition
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Confluent%20AI%20Day%202026-3rd%20Prize%20%7C%20Most%20Creative%20AI%20App-0070F3?style=for-the-badge&logo=confluent&logoColor=white" />
   <img src="https://img.shields.io/badge/BRImo%20Awards-2022-ff4d4d?style=for-the-badge&logo=award&logoColor=white" />
 </p>
 
 <p align="center">
-  Recognized for delivery excellence, performance, and contribution to BRImo initiatives.
+  Awarded <b>3rd Prize (The Most Creative AI App)</b> at <b>Confluent AI Day Indonesia 2026</b> for real-time event streaming and AI architecture, along with recognition for delivery excellence in <b>BRImo</b> enterprise initiatives.
 </p>
 
 ---
