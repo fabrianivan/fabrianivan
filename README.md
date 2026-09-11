@@ -164,8 +164,8 @@ Experienced in delivering enterprise-grade systems with strong focus on reliabil
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="190" />
-  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=radical" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabrianivan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=radical" height="190" />
 </p>
 
 <p align="center">
