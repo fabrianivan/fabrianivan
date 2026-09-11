@@ -13,9 +13,8 @@ Backend Engineer • System Builder • Performance-Oriented Developer
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fabrianivan&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/fabrianivan?label=Followers&style=flat&color=7c3aed" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/commit-activity/y/fabrianivan-id/develevate?label=Yearly%20Commits&color=7c3aed" alt="Yearly Commits" />
+  <img src="https://img.shields.io/github/commit-activity/y/fabrianivan/inatews-sentinel?label=Yearly%20Commits&color=7c3aed" alt="Yearly Commits" />
 </p>
-
 
 <p align="center">
   <a href="mailto:fabrian.ivan@gmail.com">
@@ -77,51 +76,64 @@ Backend Engineer • System Builder • Performance-Oriented Developer
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">DevElevate</h3>
+      <h3 align="center">InaTEWS Sentinel</h3>
       <p align="center">
-        <a href="https://github.com/fabrianivan/develevate">
-          <img src="https://img.shields.io/badge/View%20Repository-DevElevate-7c3aed?style=for-the-badge&logo=github&logoColor=green" />
+        <a href="https://github.com/fabrianivan/inatews-sentinel">
+          <img src="https://img.shields.io/badge/View%20Repository-InaTEWS%20Sentinel-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        An AI Gemini-integrated project designed to support developer growth, structured learning, and scalable application development.
-        Built with attention to clean architecture, maintainability, and production-ready backend practices.
+        Real-time monitoring service processing earthquake and tsunami warning data from BMKG InaTEWS, engineered for high reliability and rapid alert dispatches.
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Rumah Resep API</h3>
+      <h3 align="center">DevElevate</h3>
       <p align="center">
-        <a href="https://github.com/fabrianivan/RumahResep-Project">
-          <img src="https://img.shields.io/badge/View%20Repository-Rumah%20Resep-7c3aed?style=for-the-badge&logo=github&logoColor=red"/>
+        <a href="https://github.com/fabrianivan/develevate">
+          <img src="https://img.shields.io/badge/View%20Repository-DevElevate-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        Backend service for an ingredient ordering platform, designed with scalable API architecture and structured backend workflows.
+        An AI Gemini-integrated project designed to support developer growth, structured learning, and scalable application development with clean backend architecture.
       </p>
     </td>
   </tr>
 
   <tr>
     <td width="50%">
-      <h3 align="center">Bookshelf API</h3>
+      <h3 align="center">Rumah Resep API</h3>
       <p align="center">
-        <a href="https://github.com/fabrianivan/nodejs-bookshelf-api">
-          <img src="https://img.shields.io/badge/View%20Repository-Bookshelf%20API-7c3aed?style=for-the-badge&logo=github&logoColor=w" />
+        <a href="https://github.com/fabrianivan/RumahResep-Project">
+          <img src="https://img.shields.io/badge/View%20Repository-Rumah%20Resep-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p align="center">
-        RESTful API service for managing bookstore inventory, built with clean endpoint structure and backend service logic.
+        Backend service for an ingredient ordering platform, designed with scalable API architecture and structured backend workflows.
       </p>
     </td>
     <td width="50%">
       <h3 align="center">SFTP Watchdog</h3>
       <p align="center">
         <a href="https://github.com/fabrianivan/sftp-watchdog">
-          <img src="https://img.shields.io/badge/View%20Repository-SFTP%20Watchdog-7c3aed?style=for-the-badge&logo=github&logoColor=yellow" />
+          <img src="https://img.shields.io/badge/View%20Repository-SFTP%20Watchdog-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
         Automated Windows background service for monitoring files, handling backup workflows, and supporting operational reliability.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">Bookshelf API</h3>
+      <p align="center">
+        <a href="https://github.com/fabrianivan/nodejs-bookshelf-api">
+          <img src="https://img.shields.io/badge/View%20Repository-Bookshelf%20API-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        RESTful API service for managing bookstore inventory, built with clean endpoint structure and reliable backend service logic.
       </p>
     </td>
   </tr>
