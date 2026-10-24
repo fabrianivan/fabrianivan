@@ -13,8 +13,8 @@ Software Engineer • Distributed Systems • Full-Stack & AI Solutions
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fabrianivan&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/fabrianivan?label=Followers&style=flat-square&color=7c3aed" alt="GitHub Followers" />
-  <a href="https://streak-stats.demolab.com/?user=fabrianivan&theme=radical">
-    <img src="https://img.shields.io/badge/Streak%20Stats-Tracking-FE6B8B?style=flat-square&logo=github&logoColor=white" alt="Streak Stats Badge" />
+  <a href="https://streak-stats.demolab.com/?user=fabrianivan&theme=tokyonight">
+    <img src="https://img.shields.io/badge/Streak%20Stats-Tracking-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Streak Stats Badge" />
   </a>
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-success?style=flat-square&color=22c55e" alt="Status" />
 </p>
@@ -205,13 +205,13 @@ Software Engineer • Distributed Systems • Full-Stack & AI Solutions
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="185" />
-  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=radical" height="185" />
+  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="185" />
+  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=tokyonight" height="185" />
 </p>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com/?user=fabrianivan&theme=radical">
-    <img src="https://streak-stats.demolab.com/?user=fabrianivan&theme=radical&border_radius=8" height="190" alt="GitHub Readme Streak Stats" />
+  <a href="https://streak-stats.demolab.com/?user=fabrianivan&theme=tokyonight">
+    <img src="https://streak-stats.demolab.com/?user=fabrianivan&theme=tokyonight&border_radius=8" height="190" alt="GitHub Readme Streak Stats" />
   </a>
 </p>
 
