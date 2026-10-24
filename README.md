@@ -1,39 +1,36 @@
 <h1 align="center">Hi there, I'm Fabrian Ivan Prasetya 👋</h1>
 
 <h3 align="center">
-Backend Engineer • System Builder • Performance-Oriented Developer
+Software Engineer • Distributed Systems • Full-Stack & AI Solutions
 </h3>
 
 <p align="center">
   <strong>
-    I design scalable backend systems, build production-ready applications, and optimize services for real-world performance.
+    Building resilient backend architectures, production-grade AI applications, and enterprise systems that scale.
   </strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fabrianivan&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fabrianivan?label=Followers&style=flat&color=7c3aed" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/commit-activity/y/fabrianivan/inatews-sentinel?label=Yearly%20Commits&color=7c3aed" alt="Yearly Commits" />
+  <img src="https://komarev.com/ghpvc/?username=fabrianivan&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/fabrianivan?label=Followers&style=flat-square&color=7c3aed" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-success?style=flat-square&color=22c55e" alt="Status" />
 </p>
 
 <p align="center">
+  <a href="https://www.fabrianivan.id">
+    <img src="https://img.shields.io/badge/Website-fabrianivan.id-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="mailto:fabrian.ivan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/fabrianivan">
-    <img src="https://img.shields.io/badge/GitHub-fabrianivan-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/fabrianivan">
-    <img src="https://img.shields.io/badge/GitLab-fabrianivan-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-fabrian.ivan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fabrianivan/">
     <img src="https://img.shields.io/badge/LinkedIn-Fabrian%20Ivan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fabrianivan.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-Technical%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
   <a href="https://developers.google.com/profile/u/fabrianivan">
     <img src="https://img.shields.io/badge/Google%20Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://fabrianivan.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
@@ -43,97 +40,124 @@ Backend Engineer • System Builder • Performance-Oriented Developer
 
 <div align="center">
 
-🚀 I specialize in **Backend Engineering, API Architecture, and Distributed Systems**.  
-⚙️ I focus on **clean architecture, scalability, maintainability, and performance optimization**.  
-☁️ Experienced with **cloud infrastructure, CI/CD pipelines, containerized deployment, and enterprise systems**.  
-🎯 Currently focused on building reliable and high-performance services using **Golang**.
+🚀 **Backend & Full-Stack Engineer** with deep hands-on expertise in **Distributed Systems, Event Streaming, and AI Integration**.  
+⚙️ Focused on **clean architecture, reliability, strict data integrity, and high-throughput real-world performance**.  
+☁️ Experienced across **Google Cloud Platform, containerized microservices, CI/CD automation, and modern web frameworks**.  
+🎯 Recently built flagships spanning **real-time emergency telemetry, fintech risk compliance, and digital health**.
 
 </div>
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-ff6b6b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<div align="center">
+
+### 💻 Languages & Core
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+
+### ⚙️ Backend, Frameworks & Cloud
+[![Next.js 15](https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)](https://fastify.dev)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Gemini AI](https://img.shields.io/badge/Google%20Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![Confluent Kafka](https://img.shields.io/badge/Confluent%20Cloud-0070F3?style=flat-square&logo=confluent&logoColor=white)](https://confluent.io)
+
+### 🗄️ Databases, ORM & Caching
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
+[![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
+
+### 🛠️ DevOps, Testing & Tooling
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20v4-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects Showcase
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">InaTEWS Sentinel</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Nexora</h3>
+      <p align="center">
+        <a href="https://github.com/fabrianivan/nexora">
+          <img src="https://img.shields.io/badge/Repository-fabrianivan%2Fnexora-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/>
+        <a href="https://nexora-chi-cyan.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-nexora--chi--cyan.vercel.app-F59E0B?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Multi-country corporate tax compliance, document intelligence & fraud risk engine built for <b>Google Cloud AI Builder Cup 2026 (Track 1: BFSI)</b>. Features automated UBO ownership graph validation, deterministic tax rules, and Gemini AI copilot.
+      </p>
+      <p>
+        <code>Next.js 15</code> • <code>TypeScript</code> • <code>Gemini 2.5 Flash</code> • <code>MySQL</code> • <code>Vitest</code> • <code>Playwright</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌋 InaTEWS Sentinel</h3>
       <p align="center">
         <a href="https://github.com/fabrianivan/inatews-sentinel">
-          <img src="https://img.shields.io/badge/View%20Repository-InaTEWS%20Sentinel-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Repository-inatews--sentinel-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/>
+        <a href="https://inatews-sentinel.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-inatews--sentinel.vercel.app-0070F3?style=flat-square&logo=vercel&logoColor=white" />
         </a>
       </p>
-      <p align="center">
-        Real-time monitoring service processing earthquake and tsunami warning data from BMKG InaTEWS, engineered for high reliability and rapid alert dispatches.
+      <p>
+        Real-time volcanic intelligence and tsunami emergency response platform processing real-time seismic feeds from BMKG InaTEWS. <b>Awarded 3rd Prize (The Most Creative AI App)</b> at Confluent AI Day Indonesia 2026.
       </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">DevElevate</h3>
-      <p align="center">
-        <a href="https://github.com/fabrianivan/develevate">
-          <img src="https://img.shields.io/badge/View%20Repository-DevElevate-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        An AI Gemini-integrated project designed to support developer growth, structured learning, and scalable application development with clean backend architecture.
+      <p>
+        <code>Confluent Cloud</code> • <code>Flink SQL</code> • <code>Google Gemini AI</code> • <code>TypeScript</code> • <code>Event Streaming</code>
       </p>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
-      <h3 align="center">Rumah Resep API</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🤝 Side by Side</h3>
       <p align="center">
-        <a href="https://github.com/fabrianivan/RumahResep-Project">
-          <img src="https://img.shields.io/badge/View%20Repository-Rumah%20Resep-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+        <a href="https://github.com/fabrianivan/side-by-side">
+          <img src="https://img.shields.io/badge/Repository-side--by--side-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">
-        Backend service for an ingredient ordering platform, designed with scalable API architecture and structured backend workflows.
+      <p>
+        Privacy-first full-stack PWA built for male reproductive healthcare. Implements client-side <b>Web Crypto AES-GCM 256-bit</b> zero-knowledge encryption vault, discreet mode, WHO 6th Edition medical rules, and healthcare provider QR sharing.
+      </p>
+      <p>
+        <code>React</code> • <code>TypeScript</code> • <code>Fastify</code> • <code>Prisma / SQLite</code> • <code>Web Crypto</code> • <code>Tailwind CSS</code>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">SFTP Watchdog</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">💡 DevElevate AI</h3>
       <p align="center">
-        <a href="https://github.com/fabrianivan/sftp-watchdog">
-          <img src="https://img.shields.io/badge/View%20Repository-SFTP%20Watchdog-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+        <a href="https://github.com/fabrianivan/DevElevate">
+          <img src="https://img.shields.io/badge/Repository-DevElevate-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">
-        Automated Windows background service for monitoring files, handling backup workflows, and supporting operational reliability.
+      <p>
+        Developer career acceleration engine built in Google Antigravity IDE. Evaluates developer GitHub repositories against live senior role job descriptions to produce gap analyses, readiness ratings, and automated career growth roadmaps.
       </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" colspan="2">
-      <h3 align="center">Bookshelf API</h3>
-      <p align="center">
-        <a href="https://github.com/fabrianivan/nodejs-bookshelf-api">
-          <img src="https://img.shields.io/badge/View%20Repository-Bookshelf%20API-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        RESTful API service for managing bookstore inventory, built with clean endpoint structure and reliable backend service logic.
+      <p>
+        <code>Gemini AI</code> • <code>JavaScript</code> • <code>Clean Backend Architecture</code> • <code>GitHub API</code>
       </p>
     </td>
   </tr>
@@ -145,69 +169,67 @@ Backend Engineer • System Builder • Performance-Oriented Developer
 
 <div align="center">
 
-| Company / Platform | Experience Area |
+| Organization / Platform | Domain & Highlights |
 |---|---|
-| **Accenture** | Global Consulting & Technology Services |
-| **BRImo** | Digital Banking Platform |
-| **BRImerchant** | Merchant Digital Ecosystem |
-| **Vision+** | Streaming Platform |
-| **Smartfren OLA** | Order Management System |
+| **Accenture** | Global Technology Consulting, Enterprise Digital Transformation & Modernization |
+| **BRImo** | Flagship Indonesian Mobile Banking Platform — Millions of DAU, High-Concurrency Transactions |
+| **BRImerchant** | Merchant Digital Ecosystem, QRIS Payment Gateways & Settlement Pipelines |
+| **Vision+** | Scalable OTT Video Streaming Platform & Microservices Architecture |
+| **Smartfren OLA** | Enterprise Telecom Order Lifecycle Management & Ingestion Systems |
 
-<br>
+<br/>
 
-Experienced in delivering enterprise-grade systems with strong focus on reliability, scalability, and performance.
+*Proven track record architecting and maintaining production systems serving millions of end-users with 99.99% reliability standards.*
 
 </div>
 
 ---
 
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="190" />
-  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=radical" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabrianivan&theme=radical" height="190" />
-</p>
-
----
-
-## 🏆 Recognition
+## 🏆 Honors & Awards
 
 <p align="center">
   <img src="https://img.shields.io/badge/Confluent%20AI%20Day%202026-3rd%20Prize%20%7C%20Most%20Creative%20AI%20App-0070F3?style=for-the-badge&logo=confluent&logoColor=white" />
-  <img src="https://img.shields.io/badge/BRImo%20Awards-2022-ff4d4d?style=for-the-badge&logo=award&logoColor=white" />
+  <img src="https://img.shields.io/badge/BRImo%20Awards-Delivery%20Excellence%202022-ff4d4d?style=for-the-badge&logo=award&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-AI%20Builder%20Cup%202026%20Contender-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 <p align="center">
-  Awarded <b>3rd Prize (The Most Creative AI App)</b> at <b>Confluent AI Day Indonesia 2026</b> for real-time event streaming and AI architecture, along with recognition for delivery excellence in <b>BRImo</b> enterprise initiatives.
+  Awarded <b>3rd Prize (The Most Creative AI App)</b> at <b>Confluent AI Day Indonesia 2026</b> for real-time Kafka/Flink stream processing and Gemini AI integration, recognized for delivery excellence across core <b>BRImo</b> banking initiatives, and active participant in <b>Google Cloud AI Builder Cup 2026</b>.
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="185" />
+  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=radical" height="185" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fabrianivan&theme=radical" height="185" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 🎯 Current Focus & Philosophy
 
 <div align="center">
 
-Building backend systems that are:
-
-<br><br>
+```
+ Scalability ─── Reliability ─── Maintainability ─── Performance
+```
 
 <img src="https://img.shields.io/badge/Scalable-7c3aed?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Reliable-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Maintainable-f97316?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Performance%20Oriented-ef4444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Production%20Hardened-ef4444?style=for-the-badge" />
+
+<br/><br/>
+
+### Let's connect and build something extraordinary! 🚀
+[![Website](https://img.shields.io/badge/Portfolio-fabrianivan.id-7c3aed?style=flat-square&logo=googlechrome&logoColor=white)](https://www.fabrianivan.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fabrianivan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrianivan/)
+[![Email](https://img.shields.io/badge/Email-fabrian.ivan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fabrian.ivan@gmail.com)
 
 </div>
-
----
-
-<h3 align="center">
-Thanks for visiting my profile 🚀
-</h3>
-
-<p align="center">
-  <i>Let's build systems that scale, perform, and create real impact.</i>
-</p>
