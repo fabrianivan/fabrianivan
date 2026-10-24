@@ -205,8 +205,8 @@ Software Engineer • Distributed Systems • Full-Stack & AI Solutions
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="185" />
-  <img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=tokyonight" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabrianivan&show_icons=true&theme=tokyonight" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=tokyonight" height="185" />
 </p>
 
 <p align="center">
