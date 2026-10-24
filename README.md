@@ -13,6 +13,9 @@ Software Engineer • Distributed Systems • Full-Stack & AI Solutions
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fabrianivan&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/fabrianivan?label=Followers&style=flat-square&color=7c3aed" alt="GitHub Followers" />
+  <a href="https://streak-stats.demolab.com/?user=fabrianivan&theme=radical">
+    <img src="https://img.shields.io/badge/Streak%20Stats-Tracking-FE6B8B?style=flat-square&logo=github&logoColor=white" alt="Streak Stats Badge" />
+  </a>
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-success?style=flat-square&color=22c55e" alt="Status" />
 </p>
 
@@ -207,7 +210,9 @@ Software Engineer • Distributed Systems • Full-Stack & AI Solutions
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fabrianivan&theme=radical" height="185" alt="GitHub Streak Stats" />
+  <a href="https://streak-stats.demolab.com/?user=fabrianivan&theme=radical">
+    <img src="https://streak-stats.demolab.com/?user=fabrianivan&theme=radical&border_radius=8" height="190" alt="GitHub Readme Streak Stats" />
+  </a>
 </p>
 
 ---
