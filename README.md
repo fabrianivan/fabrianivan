@@ -206,7 +206,7 @@ Software Engineer • Distributed Systems • Full-Stack & AI Solutions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabrianivan&show_icons=true&theme=tokyonight" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=tokyonight" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrianivan&layout=compact&theme=tokyonight&hide=html,css,less,scss&exclude_repo=miniproject" height="185" />
 </p>
 
 <p align="center">
